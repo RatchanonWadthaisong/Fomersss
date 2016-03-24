@@ -26,11 +26,6 @@
     <profile>
       <id>android</id>
       <modules><module>android</module></modules>
-      <properties>
-        <android.sdk.path>
-          C:\android-sdk
-        </android.sdk.path>
-      </properties>
     </profile>
     <profile>
       <id>robosim</id>
@@ -40,10 +35,10 @@
       <id>robodev</id>
       <modules><module>robovm</module></modules>
     </profile>
-    <!-- profile>
+    <profile>
       <id>ios</id>
       <modules><module>ios</module></modules>
-    </profile -->
+    </profile>
     <profile>
       <id>html</id>
       <modules><module>html</module></modules>
