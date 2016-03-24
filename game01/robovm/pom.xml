@@ -14,7 +14,7 @@
   <name>MyGame RoboVM</name>
 
   <properties>
-    <mainClass>sut.game01.robovm.MyGameRoboVM</mainClass>
+    <mainClass>sutgame01.robovm.MyGameRoboVM</mainClass>
   </properties>
 
   <dependencies>

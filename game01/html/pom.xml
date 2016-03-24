@@ -14,7 +14,7 @@
   <name>MyGame HTML</name>
 
   <properties>
-    <gwt.module>sut.game01.MyGame</gwt.module>
+    <gwt.module>sutgame01.MyGame</gwt.module>
     <gwt.name>game01</gwt.name>
     <!-- Desired Google App Engine SDK version -->
     <gae.version>1.6.1</gae.version>

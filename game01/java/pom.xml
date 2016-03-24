@@ -14,7 +14,7 @@
   <name>MyGame Java</name>
 
   <properties>
-    <mainClass>sut.game01.java.MyGameJava</mainClass>
+    <mainClass>sutgame01.java.MyGameJava</mainClass>
   </properties>
 
   <dependencies>
